@@ -1,0 +1,10 @@
+[project]
+name = "mem0-toturial"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "mem0ai>=0.1.102",
+    "openai>=1.82.1",
+]
